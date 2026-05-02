@@ -1,9 +1,8 @@
-<h3 align="center">Senior AI Full-Stack Engineer · LLMs · RAG · Real-time Voice AI · Cloud Platforms</h3>
+<h2 align="center">Senior AI Full-Stack Engineer · LLMs · RAG · Real-time Voice AI · Cloud Platforms</h2>
 
 <p align="center">
-  <a href="mailto:jzachariah940@gmail.com"><img src="https://img.shields.io/badge/Email-jzachariah940%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/john-zach-7b7706400"><img src="https://img.shields.io/badge/LinkedIn-john--zach-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Location-North%20Fort%20Myers%2C%20FL-4A90D9?style=flat&logo=googlemaps&logoColor=white"/>
+  <a href="mailto:manideal0830@gmail.com"><img src="https://img.shields.io/badge/Email-manideal0830%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Location-United%20States-4A90D9?style=flat&logo=googlemaps&logoColor=white"/>
   <img src="https://img.shields.io/badge/Experience-8%2B%20Years-brightgreen?style=flat"/>
 </p>
 
@@ -13,7 +12,7 @@
 
 I'm a Senior AI Full-Stack Engineer with **8+ years of experience** building production-grade, Python-based AI systems and scalable cloud platforms. I specialize in **LLMs, RAG pipelines, vector databases**, and **real-time voice/speech-to-text** applications.
 
-My work spans the full stack — from low-latency FastAPI backends and WebSocket streaming services to modern React/Next.js frontends — and I've shipped systems trusted by thousands of users in healthcare, federal, and enterprise environments.
+My work spans the full stack from low-latency FastAPI backends and WebSocket streaming services to modern React/Next.js frontends and I've shipped systems trusted by thousands of users in healthcare, federal, and enterprise environments.
 
 - 🧠 Deep expertise in **Generative AI**, **LangChain/LangGraph**, and **multi-agent workflows**
 - 🎙️ Built real-time voice AI pipelines with **Whisper, Deepgram, LiveKit, and ElevenLabs**
@@ -39,6 +38,7 @@ My work spans the full stack — from low-latency FastAPI backends and WebSocket
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socket.io&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
@@ -76,38 +76,6 @@ My work spans the full stack — from low-latency FastAPI backends and WebSocket
 
 ---
 
-## Professional Experience
-
-```text
-Senior AI Engineer       Upheal                  Jan 2024 – Feb 2026  |  Miami, FL
-Senior AI Full Stack     NextGen Healthcare      Apr 2022 – Dec 2023  |  Atlanta, GA
-Full Stack Developer     GoldenWolf              Nov 2018 – Apr 2022  |  Brandon, FL
-Frontend Developer       Greenshades Software    Jun 2017 – Nov 2018  |  Jacksonville, FL
-```
-
-**Highlights:**
-
-- 🏥 Built multimodal, voice-enabled AI clinical assistants (Whisper + Deepgram + LiveKit) serving **10,000+ monthly therapy sessions**
-- 📄 Generated SOAP notes & session summaries that reduced clinician documentation time by **40%**
-- 💰 Reduced AI inference costs by **40%** deploying on AWS SageMaker + Bedrock at millions of monthly requests
-- 🔒 Designed HIPAA-compliant voice & text pipelines with PHI-safe data architecture
-- 🏛️ Modernized federal facility management systems tracking **5,000+ assets** across multi-site operations
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## Education
 
 **B.S. Computer Software Engineering** — Florida Gulf Coast University _(2014 – 2017)_
@@ -117,8 +85,7 @@ Frontend Developer       Greenshades Software    Jun 2017 – Nov 2018  |  Jacks
 ## Let's Connect
 
 <p align="center">
-  <a href="mailto:jzachariah940@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/john-zach-7b7706400"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:manideal0830@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <p align="center"><i>"Building reliable AI systems that solve real problems at production scale."</i></p>
