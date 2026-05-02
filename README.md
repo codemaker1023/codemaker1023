@@ -76,9 +76,15 @@ My work spans the full stack from low-latency FastAPI backends and WebSocket str
 
 ---
 
-## Education
+## Highlights
 
-**B.S. Computer Software Engineering** — Florida Gulf Coast University _(2014 – 2017)_
+- 🏥 Built multimodal, voice-enabled AI clinical assistants (Whisper + Deepgram + LiveKit) serving **10,000+ monthly therapy sessions**
+- 📄 Generated SOAP notes & session summaries that reduced clinician documentation time by **40%**
+- 💰 Reduced AI inference costs by **40%** deploying on AWS SageMaker + Bedrock at millions of monthly requests
+- 🔒 Designed HIPAA-compliant voice & text pipelines with PHI-safe data architecture
+- 🏛️ Modernized federal facility management systems tracking **5,000+ assets** across multi-site operations
+- ⚡ Delivered low-latency real-time transcription and concurrent audio sessions at production scale
+- 📈 Accelerated triage workflows and reduced provider documentation time by **30–45%** with LLM-powered clinical tools
 
 ---
 
