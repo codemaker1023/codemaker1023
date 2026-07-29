@@ -1,7 +1,5 @@
 <h2 align="center">Senior AI Full-Stack Engineer · LLMs · RAG · Real-time Voice AI · Cloud Platforms</h2>
 
----
-
 ## About Me
 
 I'm a Senior AI Full-Stack Engineer with **8+ years of experience** building production-grade, Python-based AI systems and scalable cloud platforms. I specialize in **LLMs, RAG pipelines, vector databases**, and **real-time voice/speech-to-text** applications.
@@ -13,8 +11,6 @@ My work spans the full stack from low-latency FastAPI backends and WebSocket str
 - 🏥 Delivered **HIPAA-compliant** clinical AI tools that cut documentation time by 40%
 - ☁️ Deployed at scale on **AWS SageMaker/Bedrock**, **Azure OpenAI**, and **GCP Vertex AI**
 
----
-
 ## Highlights
 
 - 🏥 Built multimodal, voice-enabled AI clinical assistants (Whisper + Deepgram + LiveKit) serving **10,000+ monthly therapy sessions**
@@ -24,9 +20,3 @@ My work spans the full stack from low-latency FastAPI backends and WebSocket str
 - 🏛️ Modernized federal facility management systems tracking **5,000+ assets** across multi-site operations
 - ⚡ Delivered low-latency real-time transcription and concurrent audio sessions at production scale
 - 📈 Accelerated triage workflows and reduced provider documentation time by **30–45%** with LLM-powered clinical tools
-
----
-
-## Let's Connect
-
-<p align="center"><i>"Building reliable AI systems that solve real problems at production scale."</i></p>
